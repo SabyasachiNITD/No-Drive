@@ -1,2 +1,5 @@
 # No-Drive
-Inta-Net file transfer system
+Intra-Net file transfer system
+
+## Purpose
+Share files in a network on the go 
